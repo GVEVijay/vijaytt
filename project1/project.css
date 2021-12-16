@@ -1,0 +1,65 @@
+#project
+{
+    font-family: century gothic;
+    color: #393E46;
+    text-align: center;
+}
+
+.container
+{
+    
+    font-family: century gothic;
+    color :black;
+    background-color:#FF9292;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+   
+}
+
+.container1
+{
+    
+    font-family: century gothic;
+    color :black;
+    background-color:#FFB4B4;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+
+.container2
+{
+    
+    font-family: century gothic;
+    color :black;
+    background-color: #FFDCDC;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+.container3
+{
+    
+    font-family: century gothic;
+    color :black;
+    background-color: #FFE8E8;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
+
+.container4
+{
+    
+    font-family: century gothic;
+    color :black;
+    background-color: #FDEFEF;
+    box-shadow: black 6px 6px 20px;
+    padding: 8px;
+    width: 200px;
+    
+}
